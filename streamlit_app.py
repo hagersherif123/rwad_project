@@ -90,3 +90,4 @@ def main():
 
 if _name_ == "_main_":
     main()
+    $ streamlit run streamlit_app.py
